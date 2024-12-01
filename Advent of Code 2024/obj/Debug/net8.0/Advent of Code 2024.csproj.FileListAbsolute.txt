@@ -1,0 +1,16 @@
+C:\Users\Zelda\source\repos\Advent of Code 2024\Advent of Code 2024\bin\Debug\net8.0\Advent of Code 2024.exe
+C:\Users\Zelda\source\repos\Advent of Code 2024\Advent of Code 2024\bin\Debug\net8.0\Advent of Code 2024.deps.json
+C:\Users\Zelda\source\repos\Advent of Code 2024\Advent of Code 2024\bin\Debug\net8.0\Advent of Code 2024.runtimeconfig.json
+C:\Users\Zelda\source\repos\Advent of Code 2024\Advent of Code 2024\bin\Debug\net8.0\Advent of Code 2024.dll
+C:\Users\Zelda\source\repos\Advent of Code 2024\Advent of Code 2024\bin\Debug\net8.0\Advent of Code 2024.pdb
+C:\Users\Zelda\source\repos\Advent of Code 2024\Advent of Code 2024\obj\Debug\net8.0\Advent of Code 2024.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zelda\source\repos\Advent of Code 2024\Advent of Code 2024\obj\Debug\net8.0\Advent of Code 2024.AssemblyInfoInputs.cache
+C:\Users\Zelda\source\repos\Advent of Code 2024\Advent of Code 2024\obj\Debug\net8.0\Advent of Code 2024.AssemblyInfo.cs
+C:\Users\Zelda\source\repos\Advent of Code 2024\Advent of Code 2024\obj\Debug\net8.0\Advent of Code 2024.csproj.CoreCompileInputs.cache
+C:\Users\Zelda\source\repos\Advent of Code 2024\Advent of Code 2024\obj\Debug\net8.0\Advent of Code 2024.dll
+C:\Users\Zelda\source\repos\Advent of Code 2024\Advent of Code 2024\obj\Debug\net8.0\refint\Advent of Code 2024.dll
+C:\Users\Zelda\source\repos\Advent of Code 2024\Advent of Code 2024\obj\Debug\net8.0\Advent of Code 2024.pdb
+C:\Users\Zelda\source\repos\Advent of Code 2024\Advent of Code 2024\obj\Debug\net8.0\Advent of Code 2024.genruntimeconfig.cache
+C:\Users\Zelda\source\repos\Advent of Code 2024\Advent of Code 2024\obj\Debug\net8.0\ref\Advent of Code 2024.dll
+C:\Users\Zelda\source\repos\Advent of Code 2024\Advent of Code 2024\bin\Debug\net8.0\Inputs\daytest1.txt
+C:\Users\Zelda\source\repos\Advent of Code 2024\Advent of Code 2024\bin\Debug\net8.0\Inputs\day1.txt
