@@ -24,9 +24,7 @@ namespace Advent_of_Code_2024.Days
 
             var test = inputString.Count();
 
-            var regexTest = new Regex(@"mul[(]\d[)]");
-
-            String regex = @"mul[(][0-9]*,[0-9]*[)]";
+            String regex = @"mul[(]\d{1,3},\d{1,3}[)]";
 
             var matches = Regex.Matches(inputString, regex);
 
@@ -42,9 +40,7 @@ namespace Advent_of_Code_2024.Days
 
             var test = inputString.Count();
 
-            var regexTest = new Regex(@"mul[(]\d[)]");
-
-            String regex = @"(mul[(][0-9]*,[0-9]*[)]|do[(][)]|don't[(][)])";
+            String regex = @"(mul[(]\d{1,3},\d{1,3}[)]|do[(][)]|don't[(][)])";
 
             var matches = Regex.Matches(inputString, regex);
 
