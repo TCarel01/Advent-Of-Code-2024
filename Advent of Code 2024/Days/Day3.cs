@@ -29,7 +29,7 @@ namespace Advent_of_Code_2024.Days
             var matches = Regex.Matches(inputString, regex);
 
 
-            return matches.Aggregate(0, (acc, e) => acc += Int32.Parse(Regex.Match(e.ToString().Split(",")[0], @"\d+").Value) * Int32.Parse(Regex.Match(e.ToString().Split(",")[1], @"\d+").Value));
+            return matches.Aggregate(0, (acc, e) => acc += Regex.Matches(e.ToString(), @"\d{1,3}").ToList().Aggregate(1, (acc2, e2) => acc2 * Int32.Parse(e2.ToString())));
         }
 
         public int Day3Part2Solver(string filename)
@@ -60,11 +60,9 @@ namespace Advent_of_Code_2024.Days
                     enableMult = false;
                     continue;
                 }
-                var intOne = Int32.Parse(Regex.Match(match.ToString().Split(",")[0], @"\d+").Value);
 
-                var intTwo = Int32.Parse(Regex.Match(match.ToString().Split(",")[1], @"\d+").Value);
-
-                prod = enableMult ? prod + intOne * intTwo : prod;
+                var ints = Regex.Matches(match.ToString(), @"\d{1,3}");
+                prod = enableMult? prod + ints.Aggregate(1, (acc, e) => acc * Int32.Parse(e.ToString())) : prod;
             }
             return prod;
         }
