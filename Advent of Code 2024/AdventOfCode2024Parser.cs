@@ -22,5 +22,33 @@ namespace Advent_of_Code_2024
             reader.Close();
             return returnedInput;
         }
+
+        public List<List<char>> ParseInputNoRemovedWhitespace(string filename)
+        {
+            List<List<char>> returnedInput = new List<List<char>>();
+            StreamReader reader = File.OpenText(filename);
+            string curLine;
+            while ((curLine = reader.ReadLine()) != null)
+            {
+                List<char> curStringList = curLine.ToCharArray().ToList();
+                returnedInput.Add(curStringList);
+            }
+            reader.Close();
+            return returnedInput;
+        }
+
+        public List<List<int>> ParseInputAsInts(string filename)
+        {
+            List<List<int>> returnedInput = new List<List<int>>();
+            StreamReader reader = File.OpenText(filename);
+            string curLine;
+            while((curLine = reader.ReadLine()) != null)
+            {
+                List<string> curStringList = curLine.Split(" ").Where(e => e != "").ToList();
+                List<int> curStringListAsInts = curStringList.Select(e => Int32.Parse(e)).ToList();
+                returnedInput.Add(curStringListAsInts);
+            }
+            return returnedInput;
+        }
     }
 }
