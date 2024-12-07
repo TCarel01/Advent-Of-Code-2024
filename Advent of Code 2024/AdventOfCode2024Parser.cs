@@ -64,5 +64,17 @@ namespace Advent_of_Code_2024
             }
             return returnedInput;
         }
+
+        public List<string> ParseInputAsSingleArrayOfStrings(string filename)
+        {
+            List<string> returnedInput = new List<string>();
+            StreamReader reader = File.OpenText(filename);
+            string curLine;
+            while ((curLine = reader.ReadLine()) != null)
+            {
+                returnedInput.Add(curLine);
+            }
+            return returnedInput;
+        }
     }
 }
