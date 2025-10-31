@@ -83,11 +83,6 @@ namespace Advent_of_Code_2024.Days
 
             int trailScore = 0;
 
-            if (curTrailElevation == 0)
-            {
-                int breakpoint = 2;
-            }
-
             for (int y = minStartYPos; y <= maxStartYPos; ++y)
             {
                 for (int x = minStartXPos; x <= maxStartXPos; ++x)
