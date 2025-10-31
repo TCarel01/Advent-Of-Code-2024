@@ -92,5 +92,24 @@ namespace Advent_of_Code_2024
             }
             return ints;
         }
+
+        public List<List<int>> ParseInputAs2DArrayOfInts(string filename)
+        {
+            List<List<int>> ints = new List<List<int>>();
+            StreamReader reader = File.OpenText(filename);
+            string curLine;
+            while ((curLine = reader.ReadLine()) != null)
+            {
+                List<int> curInts = new();
+                char[] curLineArr = curLine.ToCharArray();
+                foreach (var item in curLineArr)
+                {
+                    curInts.Add(int.Parse(item.ToString()));
+                }
+
+                ints.Add(curInts);
+            }
+            return ints;
+        }
     }
 }
