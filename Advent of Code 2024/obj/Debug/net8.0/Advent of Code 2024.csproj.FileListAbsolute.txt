@@ -28,3 +28,7 @@ C:\Users\Zelda\source\repos\Advent of Code 2024\Advent of Code 2024\bin\Debug\ne
 C:\Users\Zelda\source\repos\Advent of Code 2024\Advent of Code 2024\bin\Debug\net8.0\Inputs\day6.txt
 C:\Users\Zelda\source\repos\Advent of Code 2024\Advent of Code 2024\bin\Debug\net8.0\Inputs\day7test.txt
 C:\Users\Zelda\source\repos\Advent of Code 2024\Advent of Code 2024\bin\Debug\net8.0\Inputs\day7.txt
+C:\Users\Zelda\source\repos\Advent of Code 2024\Advent of Code 2024\bin\Debug\net8.0\Inputs\day8test.txt
+C:\Users\Zelda\source\repos\Advent of Code 2024\Advent of Code 2024\bin\Debug\net8.0\Inputs\day8.txt
+C:\Users\Zelda\source\repos\Advent of Code 2024\Advent of Code 2024\bin\Debug\net8.0\Inputs\day9.txt
+C:\Users\Zelda\source\repos\Advent of Code 2024\Advent of Code 2024\bin\Debug\net8.0\Inputs\day9test.txt
