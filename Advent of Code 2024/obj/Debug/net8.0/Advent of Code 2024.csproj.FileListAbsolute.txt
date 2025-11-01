@@ -34,3 +34,41 @@ C:\Users\Zelda\source\repos\Advent of Code 2024\Advent of Code 2024\bin\Debug\ne
 C:\Users\Zelda\source\repos\Advent of Code 2024\Advent of Code 2024\bin\Debug\net8.0\Inputs\day9test.txt
 C:\Users\Zelda\source\repos\Advent of Code 2024\Advent of Code 2024\bin\Debug\net8.0\Inputs\day10.txt
 C:\Users\Zelda\source\repos\Advent of Code 2024\Advent of Code 2024\bin\Debug\net8.0\Inputs\day10test.txt
+C:\Users\Zelda\Advent-Of-Code-2024\Advent of Code 2024\bin\Debug\net8.0\Advent of Code 2024.exe
+C:\Users\Zelda\Advent-Of-Code-2024\Advent of Code 2024\bin\Debug\net8.0\Inputs\day1.txt
+C:\Users\Zelda\Advent-Of-Code-2024\Advent of Code 2024\bin\Debug\net8.0\Inputs\day10.txt
+C:\Users\Zelda\Advent-Of-Code-2024\Advent of Code 2024\bin\Debug\net8.0\Inputs\day10test.txt
+C:\Users\Zelda\Advent-Of-Code-2024\Advent of Code 2024\bin\Debug\net8.0\Inputs\day1test.txt
+C:\Users\Zelda\Advent-Of-Code-2024\Advent of Code 2024\bin\Debug\net8.0\Inputs\day2.txt
+C:\Users\Zelda\Advent-Of-Code-2024\Advent of Code 2024\bin\Debug\net8.0\Inputs\day2test.txt
+C:\Users\Zelda\Advent-Of-Code-2024\Advent of Code 2024\bin\Debug\net8.0\Inputs\day3.txt
+C:\Users\Zelda\Advent-Of-Code-2024\Advent of Code 2024\bin\Debug\net8.0\Inputs\day3test.txt
+C:\Users\Zelda\Advent-Of-Code-2024\Advent of Code 2024\bin\Debug\net8.0\Inputs\day3test2.txt
+C:\Users\Zelda\Advent-Of-Code-2024\Advent of Code 2024\bin\Debug\net8.0\Inputs\day4.txt
+C:\Users\Zelda\Advent-Of-Code-2024\Advent of Code 2024\bin\Debug\net8.0\Inputs\day4test.txt
+C:\Users\Zelda\Advent-Of-Code-2024\Advent of Code 2024\bin\Debug\net8.0\Inputs\day5.txt
+C:\Users\Zelda\Advent-Of-Code-2024\Advent of Code 2024\bin\Debug\net8.0\Inputs\day5test.txt
+C:\Users\Zelda\Advent-Of-Code-2024\Advent of Code 2024\bin\Debug\net8.0\Inputs\day6.txt
+C:\Users\Zelda\Advent-Of-Code-2024\Advent of Code 2024\bin\Debug\net8.0\Inputs\day6test.txt
+C:\Users\Zelda\Advent-Of-Code-2024\Advent of Code 2024\bin\Debug\net8.0\Inputs\day7.txt
+C:\Users\Zelda\Advent-Of-Code-2024\Advent of Code 2024\bin\Debug\net8.0\Inputs\day7test.txt
+C:\Users\Zelda\Advent-Of-Code-2024\Advent of Code 2024\bin\Debug\net8.0\Inputs\day8.txt
+C:\Users\Zelda\Advent-Of-Code-2024\Advent of Code 2024\bin\Debug\net8.0\Inputs\day8test.txt
+C:\Users\Zelda\Advent-Of-Code-2024\Advent of Code 2024\bin\Debug\net8.0\Inputs\day9.txt
+C:\Users\Zelda\Advent-Of-Code-2024\Advent of Code 2024\bin\Debug\net8.0\Inputs\day9test.txt
+C:\Users\Zelda\Advent-Of-Code-2024\Advent of Code 2024\bin\Debug\net8.0\Advent of Code 2024.deps.json
+C:\Users\Zelda\Advent-Of-Code-2024\Advent of Code 2024\bin\Debug\net8.0\Advent of Code 2024.runtimeconfig.json
+C:\Users\Zelda\Advent-Of-Code-2024\Advent of Code 2024\bin\Debug\net8.0\Advent of Code 2024.dll
+C:\Users\Zelda\Advent-Of-Code-2024\Advent of Code 2024\bin\Debug\net8.0\Advent of Code 2024.pdb
+C:\Users\Zelda\Advent-Of-Code-2024\Advent of Code 2024\obj\Debug\net8.0\Advent of Code 2024.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zelda\Advent-Of-Code-2024\Advent of Code 2024\obj\Debug\net8.0\Advent of Code 2024.AssemblyInfoInputs.cache
+C:\Users\Zelda\Advent-Of-Code-2024\Advent of Code 2024\obj\Debug\net8.0\Advent of Code 2024.AssemblyInfo.cs
+C:\Users\Zelda\Advent-Of-Code-2024\Advent of Code 2024\obj\Debug\net8.0\Advent of Code 2024.csproj.CoreCompileInputs.cache
+C:\Users\Zelda\Advent-Of-Code-2024\Advent of Code 2024\obj\Debug\net8.0\Advent of Code 2024.sourcelink.json
+C:\Users\Zelda\Advent-Of-Code-2024\Advent of Code 2024\obj\Debug\net8.0\Advent of Code 2024.dll
+C:\Users\Zelda\Advent-Of-Code-2024\Advent of Code 2024\obj\Debug\net8.0\refint\Advent of Code 2024.dll
+C:\Users\Zelda\Advent-Of-Code-2024\Advent of Code 2024\obj\Debug\net8.0\Advent of Code 2024.pdb
+C:\Users\Zelda\Advent-Of-Code-2024\Advent of Code 2024\obj\Debug\net8.0\Advent of Code 2024.genruntimeconfig.cache
+C:\Users\Zelda\Advent-Of-Code-2024\Advent of Code 2024\obj\Debug\net8.0\ref\Advent of Code 2024.dll
+C:\Users\Zelda\Advent-Of-Code-2024\Advent of Code 2024\bin\Debug\net8.0\Inputs\day11.txt
+C:\Users\Zelda\Advent-Of-Code-2024\Advent of Code 2024\bin\Debug\net8.0\Inputs\day11test.txt
