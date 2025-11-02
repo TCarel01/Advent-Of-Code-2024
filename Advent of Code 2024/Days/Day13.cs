@@ -70,50 +70,6 @@ namespace Advent_of_Code_2024.Days
             return ComputeCostOptimized(input);
         }
 
-        public long ComputeCost(List<List<int>> input)
-        {
-            long totalCost = 0;
-            for (int curInputIdx = 0; curInputIdx < input.Count; curInputIdx += 3)
-            {
-                int curPrizeCost = int.MaxValue;
-
-                int totalX = input[curInputIdx + 2][0];
-                int totalY = input[curInputIdx + 2][1];
-
-                int AButtonOffsetX = input[curInputIdx][0];
-                int AButtonOffsetY = input[curInputIdx][1];
-
-                int totalAPress = (int)Math.Min(Math.Ceiling(totalX / (AButtonOffsetX * 1.0)), 
-                    Math.Ceiling(totalY / (AButtonOffsetY * 1.0)));
-
-                int BButtonOffsetX = input[curInputIdx + 1][0];
-                int BButtonOffsetY = input[curInputIdx + 1][1];
-
-                int totalBPress = (int)Math.Min(Math.Ceiling(totalX / (BButtonOffsetX * 1.0)),
-                    Math.Ceiling(totalY / (BButtonOffsetY * 1.0)));
-
-                for (int aButtonCount = 0; aButtonCount < totalAPress; ++aButtonCount)
-                {
-                    for (int bButtonCount = 0; bButtonCount < totalBPress; ++bButtonCount)
-                    {
-                        int xPos = aButtonCount * AButtonOffsetX + bButtonCount * BButtonOffsetX;
-                        int yPos = aButtonCount * AButtonOffsetY + bButtonCount * BButtonOffsetY;
-
-                        int curIterationCost = aButtonCount * 3 + bButtonCount;
-
-                        if (xPos == totalX && yPos == totalY && curIterationCost < curPrizeCost)
-                        {
-                            curPrizeCost = curIterationCost;
-                        }
-                    }
-                }
-
-                totalCost += curPrizeCost != int.MaxValue ? (long)curPrizeCost : 0;
-            }
-
-            return totalCost;
-        }
-
         public long ComputeCostOptimized(List<List<long>> input)
         {
             long totalCost = 0;
