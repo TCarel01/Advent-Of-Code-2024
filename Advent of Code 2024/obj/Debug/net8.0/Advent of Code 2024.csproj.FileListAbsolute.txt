@@ -78,3 +78,5 @@ C:\Users\Zelda\Advent-Of-Code-2024\Advent of Code 2024\bin\Debug\net8.0\Inputs\d
 C:\Users\Zelda\Advent-Of-Code-2024\Advent of Code 2024\bin\Debug\net8.0\Inputs\day13test.txt
 C:\Users\Zelda\Advent-Of-Code-2024\Advent of Code 2024\bin\Debug\net8.0\Inputs\day14.txt
 C:\Users\Zelda\Advent-Of-Code-2024\Advent of Code 2024\bin\Debug\net8.0\Inputs\day14test.txt
+C:\Users\Zelda\Advent-Of-Code-2024\Advent of Code 2024\bin\Debug\net8.0\Inputs\day15.txt
+C:\Users\Zelda\Advent-Of-Code-2024\Advent of Code 2024\bin\Debug\net8.0\Inputs\day15test.txt
