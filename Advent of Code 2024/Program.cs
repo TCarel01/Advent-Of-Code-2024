@@ -21,6 +21,7 @@ Day15 day15 = new Day15();
 Day16 day16 = new Day16();
 Day17 day17 = new Day17();
 Day18 day18 = new Day18();
+Day19 day19 = new Day19();
 
 //Console.WriteLine(day1.DayOneSolver("./Inputs/day1.txt"));
 
@@ -109,8 +110,14 @@ Day18 day18 = new Day18();
 // Console.WriteLine(day17.Day17Part2Solver("./Inputs/day17test.txt"));
 //Console.WriteLine(day17.Day17Part2Solver("./Inputs/day17.txt"));
 
-Console.WriteLine(day18.Day18Part1Solver("./Inputs/day18test.txt", 7, 12));
-Console.WriteLine(day18.Day18Part1Solver("./Inputs/day18.txt", 71, 1024));
+//Console.WriteLine(day18.Day18Part1Solver("./Inputs/day18test.txt", 7, 12));
+//Console.WriteLine(day18.Day18Part1Solver("./Inputs/day18.txt", 71, 1024));
 
-Console.WriteLine(day18.Day18Part2Solver("./Inputs/day18test.txt", 7));
-Console.WriteLine(day18.Day18Part2Solver("./Inputs/day18.txt", 71));
+//Console.WriteLine(day18.Day18Part2Solver("./Inputs/day18test.txt", 7));
+//Console.WriteLine(day18.Day18Part2Solver("./Inputs/day18.txt", 71));
+
+Console.WriteLine(day19.Day19Part1Solver("./Inputs/day19test.txt"));
+Console.WriteLine(day19.Day19Part1Solver("./Inputs/day19.txt"));
+
+Console.WriteLine(day19.Day19Part2Solver("./Inputs/day19test.txt"));
+Console.WriteLine(day19.Day19Part2Solver("./Inputs/day19.txt"));

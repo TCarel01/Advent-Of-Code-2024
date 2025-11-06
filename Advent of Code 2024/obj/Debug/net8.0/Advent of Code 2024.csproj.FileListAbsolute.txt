@@ -100,3 +100,7 @@ C:\Users\Zelda\Advent-Of-Code-2024\Advent of Code 2024\bin\Debug\net8.0\Inputs\d
 C:\Users\Zelda\Advent-Of-Code-2024\Advent of Code 2024\bin\Debug\net8.0\Inputs\day17test.txt
 C:\Users\Zelda\Advent-Of-Code-2024\Advent of Code 2024\bin\Debug\net8.0\Inputs\day18.txt
 C:\Users\Zelda\Advent-Of-Code-2024\Advent of Code 2024\bin\Debug\net8.0\Inputs\day18test.txt
+C:\Users\Zelda\source\repos\Advent of Code 2024\Advent of Code 2024\bin\Debug\net8.0\Inputs\day18.txt
+C:\Users\Zelda\source\repos\Advent of Code 2024\Advent of Code 2024\bin\Debug\net8.0\Inputs\day18test.txt
+C:\Users\Zelda\source\repos\Advent of Code 2024\Advent of Code 2024\bin\Debug\net8.0\Inputs\day19.txt
+C:\Users\Zelda\source\repos\Advent of Code 2024\Advent of Code 2024\bin\Debug\net8.0\Inputs\day19test.txt

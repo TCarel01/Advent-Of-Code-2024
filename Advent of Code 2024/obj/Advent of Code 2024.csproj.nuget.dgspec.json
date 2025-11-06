@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Zelda\\Advent-Of-Code-2024\\Advent of Code 2024\\Advent of Code 2024.csproj": {}
+    "C:\\Users\\Zelda\\source\\repos\\Advent of Code 2024\\Advent of Code 2024\\Advent of Code 2024.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Zelda\\Advent-Of-Code-2024\\Advent of Code 2024\\Advent of Code 2024.csproj": {
+    "C:\\Users\\Zelda\\source\\repos\\Advent of Code 2024\\Advent of Code 2024\\Advent of Code 2024.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Zelda\\Advent-Of-Code-2024\\Advent of Code 2024\\Advent of Code 2024.csproj",
+        "projectUniqueName": "C:\\Users\\Zelda\\source\\repos\\Advent of Code 2024\\Advent of Code 2024\\Advent of Code 2024.csproj",
         "projectName": "Advent of Code 2024",
-        "projectPath": "C:\\Users\\Zelda\\Advent-Of-Code-2024\\Advent of Code 2024\\Advent of Code 2024.csproj",
+        "projectPath": "C:\\Users\\Zelda\\source\\repos\\Advent of Code 2024\\Advent of Code 2024\\Advent of Code 2024.csproj",
         "packagesPath": "C:\\Users\\Zelda\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Zelda\\Advent-Of-Code-2024\\Advent of Code 2024\\obj\\",
+        "outputPath": "C:\\Users\\Zelda\\source\\repos\\Advent of Code 2024\\Advent of Code 2024\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -26,6 +26,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
